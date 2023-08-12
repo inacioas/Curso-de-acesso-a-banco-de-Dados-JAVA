@@ -1,0 +1,5 @@
+package com.estagiobb.course.resources;
+
+public class UserResource {
+
+}

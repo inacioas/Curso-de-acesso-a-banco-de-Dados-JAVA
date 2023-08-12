@@ -1,0 +1,5 @@
+package com.estagiobb.course.entities;
+
+public class User {
+
+}
